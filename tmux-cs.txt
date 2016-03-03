@@ -45,3 +45,5 @@ Ctrl-b : "break-pane"
 bind | split-window -h
 bind - split-window -v
 
+(Edited: 2016-03-03)
+
